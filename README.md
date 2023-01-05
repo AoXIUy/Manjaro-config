@@ -207,7 +207,7 @@ cat >> ~/.autostart.sh << EOF
 #!/bin/bash
 devilspie -a&
 EOF
-chmod +x ~/.autostart.sh
+chmod +X ~/.autostart.sh
 sudo vim /etc/systemd/system/autostart.service 
 [Unit]
 Description=run shell script
