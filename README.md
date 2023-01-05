@@ -145,7 +145,7 @@ yay -S ocs-url
 
 ![image-20230105150745009](/png/image-20230105150745009.png)
 
-![image-20230105150819332](/home/axooly/.config/Typora/typora-user-images/image-20230105150819332.png)
+![image-20230105150819332](/png/Screenshot_20230105_224857.png)
 
 ![image-20230105150847533](png/image-20230105150847533.png)
 
