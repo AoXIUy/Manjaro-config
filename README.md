@@ -49,9 +49,11 @@ sudo manjaro-settings-manager
 #选择video-linux右键移除
 ```
 
-![](/home/axooly/图片/Screenshot_20230105_142810.png)
+![](png/Screenshot_20230105_142810.png)
 
-![](/home/axooly/图片/Screenshot_20230105_142351.png)
+![](png/Screenshot_20230105_142351.png)
+
+
 
 - ###### 安装Nvidia video驱动
 
@@ -61,9 +63,9 @@ sudo manjaro-settings-manager
   #选择其中一个右键安装
   ```
 
-  ![](/home/axooly/图片/Screenshot_20230105_142810.png)
+  ![](png/Screenshot_20230105_142810.png)
 
-  ![image-20230105142734506](/home/axooly/.config/Typora/typora-user-images/image-20230105142734506.png)
+  ![image-20230105142734506](png/image-20230105142734506.png)
 
 - ###### 安装依赖 载入模块
 
@@ -108,13 +110,13 @@ sudo manjaro-settings-manager
 
 #### 最终效果
 
-![image-20230105155543991](/home/axooly/.config/Typora/typora-user-images/image-20230105155543991.png)
+![image-20230105155543991](png/image-20230105155543991.png)
 
-![image-20230105155623782](/home/axooly/.config/Typora/typora-user-images/image-20230105155623782.png)
+![image-20230105155623782](png/image-20230105155623782.png)
 
-![image-20230105155712288](/home/axooly/.config/Typora/typora-user-images/image-20230105155712288.png)
+![image-20230105155712288](png/image-20230105155712288.png)
 
-![image-20230105155740181](/home/axooly/.config/Typora/typora-user-images/image-20230105155740181.png)
+![image-20230105155740181](png/image-20230105155740181.png)
 
 #### 安装ocs-url（方便安装主题）
 
@@ -129,23 +131,23 @@ yay -S ocs-url
 #安装全局主题建议重启
 ```
 
-![image-20230105150053742](/home/axooly/.config/Typora/typora-user-images/image-20230105150053742.png)
+![image-20230105150053742](png/image-20230105150053742.png)
 
-![image-20230105150321608](/home/axooly/.config/Typora/typora-user-images/image-20230105150321608.png)
+![image-20230105150321608](png/image-20230105150321608.png)
 
-![image-20230105150354941](/home/axooly/.config/Typora/typora-user-images/image-20230105150354941.png)
+![image-20230105150354941](png/image-20230105150354941.png)
 
-![image-20230105150430430](/home/axooly/.config/Typora/typora-user-images/image-20230105150430430.png)
+![image-20230105150430430](png/image-20230105150430430.png)
 
 **打开系统设置->外观->全局主题**
 
-![image-20230105150605645](/home/axooly/.config/Typora/typora-user-images/image-20230105150605645.png)
+![image-20230105150605645](png/image-20230105150605645.png)
 
-![image-20230105150745009](/home/axooly/.config/Typora/typora-user-images/image-20230105150745009.png)
+![image-20230105150745009](/png/image-20230105150745009.png)
 
 ![image-20230105150819332](/home/axooly/.config/Typora/typora-user-images/image-20230105150819332.png)
 
-![image-20230105150847533](/home/axooly/.config/Typora/typora-user-images/image-20230105150847533.png)
+![image-20230105150847533](png/image-20230105150847533.png)
 
 #### 安装图标
 
@@ -154,7 +156,7 @@ yay -S ocs-url
 yay -S papirus-icon-theme-git 
 ```
 
-![image-20230105152242793](/home/axooly/.config/Typora/typora-user-images/image-20230105152242793.png)
+![image-20230105152242793](png/image-20230105152242793.png)
 
 #### 毛玻璃效果
 
